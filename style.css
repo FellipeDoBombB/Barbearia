@@ -1,8 +1,14 @@
 body {
     background: rgb(91, 24, 24)
 }
+#banner{
+    width: 100%;
+}
 
 h1 {
+    color: antiquewhite
+}
+h2 {
     color: antiquewhite
 }
 
@@ -14,4 +20,7 @@ p {
 
 em strong {
     color: antiquewhite;
+}
+ul {
+    color: antiquewhite
 }
